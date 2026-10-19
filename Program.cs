@@ -58,9 +58,9 @@ foreach (string funcionario in novoArray)
    //O segundo dígito é a posição onde o número 42 está localizado.
    //O terceiro dígito é a posição onde o número 7 está localizado.
 
-int[] numeros = { 5, 42, 8, 11, 23, 1, 14, 30, 19, 27, 36, 2, 50, 7, 18, 9 };
-int indice19 = Array.IndexOf(numeros, 19);
-int indice42 = Array.IndexOf(numeros, 42);
-int indice7 = Array.IndexOf(numeros, 7);
+//int[] numeros = { 5, 42, 8, 11, 23, 1, 14, 30, 19, 27, 36, 2, 50, 7, 18, 9 };
+//int indice19 = Array.IndexOf(numeros, 19);
+//int indice42 = Array.IndexOf(numeros, 42);
+//int indice7 = Array.IndexOf(numeros, 7);
 
-Console.WriteLine($"Combinação de cada cadeado: {indice19}-{indice42}-{indice7}");
+//Console.WriteLine($"Combinação de cada cadeado: {indice19}-{indice42}-{indice7}");
